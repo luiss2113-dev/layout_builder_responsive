@@ -1,6 +1,7 @@
-# app_mobile_app_yeyo
+# Responsive Mobile APP
 
-A new Flutter project.
+Implement breakpoints with abstract class, it's controled with layout builder.
+New classes are extending base class.
 
 ## Getting Started
 
